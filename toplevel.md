@@ -8,6 +8,7 @@ Here are a list of child documents that are in separate Markdown files:
 
 
   [relative link in the same dir to vke.md](vke.md)
+  [relative link in the same dir to complete.md](complete.md)
 
 ## heading two content
 Some body text in heading 2
